@@ -1,4 +1,4 @@
 # my-first-repo
-I like to code 
-i love to code
-i love codingggg 
+My name is Jahsanni Williams
+I am from Brooklyn NY 
+I am learning how to code 
